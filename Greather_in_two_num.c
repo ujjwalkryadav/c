@@ -10,6 +10,10 @@ int main(){
     if(num1 > num2){
         printf("Greather Number Is = %d", num1);
     }
+
+    else if(num1 == num2){
+        printf("Both Numbers Are Equal: %d and %d", num1, num2);
+
     else{
         printf("Greather Number Is = %d", num2);
     }
