@@ -14,7 +14,7 @@ int main() {
 
     product = num1 * num2 * num3;
 
-    printf("Product = %d", product);
+    printf("Product Of Three Numbers = %d", product);
 
     return 0;
 }
